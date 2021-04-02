@@ -19,7 +19,7 @@ const wizard = new tm.Wizard({
       title: "Hole Puncher Photos",
       description:
         "Take at least 20 pictures of your hole puncher. Make sure that the item is in frame for every example."
-    }
+    },
     {
       name: "Eraser",
       title: "Eraser Photos",
